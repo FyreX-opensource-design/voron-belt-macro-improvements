@@ -1,0 +1,4 @@
+functions:
+  queue_check:
+    path: /home/biqu/printer_data/config/queue_check.py
+    function: queue_check
